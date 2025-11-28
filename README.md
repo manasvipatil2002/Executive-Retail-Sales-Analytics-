@@ -1,7 +1,4 @@
-# Executive-Retail-Sales-Analytics-
-This Tableau project provides a0n **interactive Executive Retail Sales Dashboard** for analyzing retail performance across regions, cities, product categories, and time.   The dashboard helps executives track **sales, profit, discount trends, and target achievements** with clear visual storytelling. 
 
-# 0(Tableau Project)
 
 ## 📌 Project Overview
 This Tableau project provides an **interactive Executive Retail Sales Dashboard** for analyzing retail performance across regions, cities, product categories, and time.  
@@ -47,25 +44,21 @@ The project is designed for:
 ## 📂 Project Files
 Overview dashboard (Q4 2018 snapshot)
 
-![Story 1](https://github.com/naynishb/Retail_Sales_Dashboard/blob/main/images/Story%201.png) 
+![Story 1]() 
 
 NYC-focused performance analysis (2017–2018) 
 
-![Story 1](https://github.com/naynishb/Retail_Sales_Dashboard/blob/main/images/Story%202.png) 
+![Story 1]() 
 
 Central region performance (2018)  
 
-![Story 1](https://github.com/naynishb/Retail_Sales_Dashboard/blob/main/images/Story%203.png) 
+![Story 1]() 
 
 Overall performance (2017–2018 full period)  
 
-![Story 1](https://github.com/naynishb/Retail_Sales_Dashboard/blob/main/images/Story%204.png) 
+![Story 1]() 
 
-## 🌍 Live Dashboard
-👉 [View on Tableau Public](https://public.tableau.com/app/profile/naynish.balasaheb.ladkat/viz/Retail_Sales_Analysis_17569707130200/Story1)
- 
 
----
 
 ## 🔑 Insights from Dashboards
 1. **Central Region achieved targets**, unlike other regions.  
