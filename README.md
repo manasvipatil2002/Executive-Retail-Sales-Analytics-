@@ -51,7 +51,7 @@ Overview dashboard (Q4 2018 snapshot)
 NYC-focused performance analysis (2017–2018) 
 
 <p align="center">
-  <img width="850" height="470" src="">
+  <img width="850" height="470" src="Story 2.png">
 </p> 
 
 Central region performance (2018)  
