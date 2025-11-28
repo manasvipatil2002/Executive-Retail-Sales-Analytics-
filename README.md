@@ -44,7 +44,7 @@ The project is designed for:
 ## 📂 Project Files
 Overview dashboard (Q4 2018 snapshot)
 
-![Story 1]() 
+![Story 1](Story 1.png) 
 
 NYC-focused performance analysis (2017–2018) 
 
