@@ -1,4 +1,4 @@
-**live Executive Retail Sales Dashboard**
+**Executive Retail Sales Dashboard**
 
 ## 📌 Project Overview
 This Tableau project provides an **live Executive Retail Sales Dashboard** for analyzing retail performance across regions, cities, product categories, and time.  
