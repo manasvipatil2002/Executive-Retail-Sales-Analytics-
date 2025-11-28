@@ -64,7 +64,7 @@ Central region performance (2018)
 Overall performance (2017–2018 full period)  
 
 <p align="center">
-  <img width="850" height="470" src="">
+  <img width="850" height="470" src="Story 4.png">
 </p> 
 
 
