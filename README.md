@@ -44,7 +44,7 @@ The project is designed for:
 ## 📂 Project Files
 Overview dashboard (Q4 2018 snapshot)
 <p align="center">
-  <img width="850" height="470" src="">
+  <img width="850" height="470" src="Story 1.png">
 </p> 
 
 
